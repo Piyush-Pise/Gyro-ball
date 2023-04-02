@@ -11,6 +11,3 @@ To play the game on your Android device, download and install the TicTacToe.apk 
 
 ## Contributing
 If you find any issues or have suggestions for improvements, feel free to open an issue or pull request in this repository.
-
-License
-This game is licensed under the MIT License. Feel free to use the code or assets in this repository as a basis for your own projects.
