@@ -7,7 +7,7 @@ The game is played on a large maze. The player who succeeds in placing the ball 
 To play the game, you could either use joystick or you could change the setting to Gyroscope to control the ball movement by tilting your device.
 
 ## Getting Started
-To play the game on your Android device, download and install the TicTacToe.apk file from the Releases section of this repository.
+To play the game on your Android device, download and install the 'Gyro Ball.apk' file.
 
 ## Contributing
 If you find any issues or have suggestions for improvements, feel free to open an issue or pull request in this repository.
